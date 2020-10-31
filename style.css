@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*Tag Styles*/
+html, body
+	{
+		height: 100%;
+		width: 100%;
+	}
+div.columns       { width: 100%; }
+div.columns div   { width: 30%; height: 100px; float: left; }
+div.grey          { background-color: #cccccc; }
+div.red           { background-color: #e14e32; }
+div.clear         { clear: both; }
